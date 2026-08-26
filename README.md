@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpeg" width="180" alt="Quazi Umme Rukiya">
+  <img src="Profile.jpeg" width="180" alt="Quazi Umme Rukiya">
 </p>
 
 <h1 align="center">Quazi Umme Rukiya</h1>
